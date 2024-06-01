@@ -4,10 +4,10 @@
 
 <h4 align="center">
   <a href="https://FreeMons.Org">
-    <img src="https://raw.githubusercontent.com/Secludedly/Switch-Controller-For-PC/main/.readme/remote-demo.gif" alt="discord" style="height: 20px;">
+    <img src="https://i.imgur.com/tCtLikg.gif" alt="discord" style="height: 20px;">
   </a>
   <a href="https://ko-fi.com/secludedly">
-    <img src="https://raw.githubusercontent.com/Secludedly/Switch-Controller-For-PC/main/.readme/remote-demo2.gif" style="height: 20px;">
+    <img src="https://i.imgur.com/zY1IsHL.gif" style="height: 20px;">
   </a>
 </h4>
 
