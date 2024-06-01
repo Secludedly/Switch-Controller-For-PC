@@ -4,10 +4,10 @@
 
 <h4 align="center">
   <a href="https://FreeMons.Org">
-    <img src="https://i.imgur.com/tCtLikg.gif" alt="discord" style="height: 20px;">
+    <img src="https://i.imgur.com/tCtLikg.gif">
   </a>
   <a href="https://ko-fi.com/secludedly">
-    <img src="https://i.imgur.com/zY1IsHL.gif" style="height: 20px;">
+    <img src="https://i.imgur.com/zY1IsHL.gif">
   </a>
 </h4>
 
